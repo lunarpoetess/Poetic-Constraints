@@ -1,2 +1,7 @@
 # Poetic-Constraints
-A place to collect idiosyncratic poetic projects 
+
+*A place to collect idiosyncratic poetic projects*
+
+## Works ##
+
+
